@@ -4,7 +4,10 @@
 >git clone https://github.com/tuansan99/NodejsWebk10.git
 
 ## **2. chuyển qua nhánh của bạn**
->git checkout "Tên nhóm"
+>git checkout -b "Tên nhóm"
+
+## **4. cập nhật code hiện tại**
+>git pull origin "Tên nhóm"
 
 ## **3. thêm (add) & commit**
 >git add .
